@@ -1,0 +1,2 @@
+- Executar
+  - php -S localhost:9001 index.php
